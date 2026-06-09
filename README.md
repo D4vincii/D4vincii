@@ -48,14 +48,12 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=FFFFFF)
+
 ![SQL](https://img.shields.io/badge/SQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-![PHP](https://img.shields.io/badge/PHP-0b0b0b?style=for-the-badge&logo=php&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-0b0b0b?style=for-the-badge&logo=html5&logoColor=FFFFFF)
 ![CSS3](https://img.shields.io/badge/CSS3-0b0b0b?style=for-the-badge&logo=css3&logoColor=FFFFFF)
 ![GitHub](https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VSCode](https://img.shields.io/badge/VSCode-0b0b0b?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
 
