@@ -20,8 +20,11 @@
 <pre style="color:white; font-size:18px; line-height:1.6;">
 
 ◈  Class        →  Computer Science Student (Cégep)
+  <br/>
 ◈  Origin       →  Canada
+  <br/>
 ◈  Focus        →  Backend Development • Software Engineering Basics
+  <br/>
 ◈  Experience   →  Python • SQL • PHP • Java • Web Fundamentals
 ◈  Learning     →  Algorithms • Databases • Script • Clean Code
 ◈  Tools        →  IntelliJ • Git • Linux • GitHub
