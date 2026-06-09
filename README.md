@@ -17,7 +17,7 @@
 
 <div style="background-color:#0b0b0b; padding:30px 35px; border-radius:15px; border:1px solid #222; width:80%;">
 
-<pre style="color:white; font-size:18px; line-height:1.6;">
+<pre>
 
 ◈  Class        →  Computer Science Student (Cégep)
   <br/>
