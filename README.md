@@ -15,11 +15,22 @@
 
 <div align="center">
 
-<pre>
-◈  Class     →  Backend / Full-Stack Apprentice
-◈  Origin    →  Brazil 🇧🇷
+<div style="background-color:#0b0b0b; padding:30px 35px; border-radius:15px; border:1px solid #222; width:80%;">
+
+<pre style="color:white; font-size:18px; line-height:1.6;">
+
+◈  Class        →  Computer Science Student (Cégep)
+◈  Origin       →  Canada
+◈  Focus        →  Backend Development • Software Engineering Basics
+◈  Experience   →  Python • SQL • PHP • Java • Web Fundamentals
+◈  Learning     →  Algorithms • Databases • Script • Clean Code
+◈  Tools        →  IntelliJ • Git • Linux • GitHub
+◈  Mindset      →  “Imagination is more important than knowledge.”
+◈  Goal         →  Become a backend developer with strong fundamentals
+
 </pre>
 
+</div>
 
 </div>
 
