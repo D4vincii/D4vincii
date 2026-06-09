@@ -1,9 +1,8 @@
-
-
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=+Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=435&lines=Backend+developer+in+training;The+world+is+yours." alt="Typing SVG" />
+</a>
 </div>
-
 
 ---
 
@@ -16,11 +15,11 @@
 
 <td align="left" width="50%">
 
-<div style="background-color:#111; padding:20px 25px; border-radius:12px;">
+<div style="background-color:#0b0b0b; padding:20px 25px; border-radius:12px; border:1px solid #222;">
 
-<pre>
+<pre style="color:white;">
 ◈  Class     →  Computer Science Student (Cégep)
-◈  Origin    →  Canada  🇨🇦
+◈  Origin    →  Canada 🇨🇦
 </pre>
 
 </div>
@@ -29,7 +28,7 @@
 
 <td align="right" width="50%">
 
-<div style="border-radius:18px; overflow:hidden;">
+<div style="border-radius:18px; overflow:hidden; border:1px solid #222;">
 
 <img 
   width="400"
@@ -46,22 +45,21 @@
 </div>
 
 <br/><br/>
+
 ## Technologies
  
 <div align="center">
 
-## ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
-![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
-## ![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)
-![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
-![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
-![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
-## ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
+![Python](https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![SQL](https://img.shields.io/badge/SQL-0b0b0b?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-0b0b0b?style=for-the-badge&logo=php&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-0b0b0b?style=for-the-badge&logo=openjdk&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-0b0b0b?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-0b0b0b?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-0b0b0b?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![VSCode](https://img.shields.io/badge/VSCode-0b0b0b?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
 </div>
-
-
 
 ---
 
@@ -69,11 +67,10 @@
 
 ## Statistics
 <div align="center">
+
 <img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
 
-<img src="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
-
-<br/>
+<img src="https://streak-stats.demolab.com?user=D4vincii&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0b0b0b&border=222222&stroke=222222&dates=777777&sideLabels=FFFFFF" alt="streak"/>
 
 </div>
 
@@ -83,7 +80,6 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prata-del&bg_color=0d0d0d&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=333333&hide_border=false&border_color=2a2a2a&title_color=FFFFFF)](https://github.com/D4vincii)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=D4vincii&bg_color=0b0b0b&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=1a1a1a&hide_border=false&border_color=222222&title_color=FFFFFF)](https://github.com/D4vincii)
 
 </div>
-
