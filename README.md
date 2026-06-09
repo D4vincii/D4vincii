@@ -1,10 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg">
- <br/><br/> 
-<div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=900&lines=Make+your+life+a+dream,+and+your+dream+a+reality;The+best+way+to+predict+the+future+is+to+create+it;Imagination+is+more+important+than+knowledge;Be+the+change+you+want+to+see+in+the+world." alt="Typing SVG" />
-</div>
-</a>
 </div>
 
 ---
@@ -49,8 +44,8 @@
 
 <br/><br/>
 
-## Technologies
- 
+## <div align="center">Technologies</div>
+
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-0b0b0b?style=for-the-badge&logo=python&logoColor=FFFFFF)
@@ -68,7 +63,8 @@
 
 <br/><br/>
 
-## Statistics
+## <div align="center">Statistics</div>
+
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=D4vincii&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0b0b0b&border=222222&stroke=222222&dates=777777&sideLabels=FFFFFF" alt="streak"/>
@@ -77,7 +73,7 @@
 
 ---
 
-## Contribution Graph
+## <div align="center">Contribution Graph</div>
 
 <div align="center">
 
