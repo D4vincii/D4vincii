@@ -19,7 +19,7 @@
 
 <pre style="color:white;">
 ◈  Class     →  Computer Science Student (Cégep)
-◈  Origin    →  Canada 🇨🇦
+◈  Origin    →  Canada
 </pre>
 
 </div>
@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-##  Technologies
+## Technologies
  
 <div align="center">
 
@@ -68,9 +68,7 @@
 ## Statistics
 <div align="center">
 
-<p style="color:#777; font-size:14px;">
-Statistics section removed for a cleaner dark profile.
-</p>
+<img src="https://streak-stats.demolab.com?user=D4vincii&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0b0b0b&border=222222&stroke=222222&dates=777777&sideLabels=FFFFFF" alt="streak"/>
 
 </div>
 
