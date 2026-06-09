@@ -9,6 +9,7 @@
 
 
 <div align="center">
+<div style="display:inline-block; text-align:left;">
 
 ◈ Location → Montreal, Canada  
 ◈ Class → Computer Science Student (Cégep)  
@@ -17,9 +18,11 @@
 ◈ Learning → Algorithms • Databases • Clean Code  
 ◈ Tools → IntelliJ IDEA • Git • Linux • GitHub  
 ◈ Goal → Become a Backend Developer  
-◈ Mindset → “Imagination is more important than knowledge.”  
+◈ Mindset → "Imagination is more important than knowledge."  
 
 </div>
+</div>
+
 
 ---
 
