@@ -18,21 +18,9 @@
 <div style="background-color:#0b0b0b; padding:30px 35px; border-radius:15px; border:1px solid #222; width:80%;">
 
 <pre>
-
-◈  Class        →  Computer Science Student (Cégep)
-  <br/>
-◈  Origin       →  Canada
-  <br/>
-◈  Focus        →  Backend Development • Software Engineering Basics
-  <br/>
-◈  Experience   →  Python • SQL • PHP • Java • Web Fundamentals
-◈  Learning     →  Algorithms • Databases • Script • Clean Code
-◈  Tools        →  IntelliJ • Git • Linux • GitHub
-◈  Mindset      →  “Imagination is more important than knowledge.”
-◈  Goal         →  Become a backend developer with strong fundamentals
-
+◈  Class     →  Backend / Full-Stack Apprentice
+◈  Origin    →  Brazil 🇧🇷
 </pre>
-
 </div>
 
 </div>
