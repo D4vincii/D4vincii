@@ -25,15 +25,6 @@
 
 </td>
 
-<td align="right" width="50%">
-
-<div style="border-radius:18px; overflow:hidden;">
-
-
-</div>
-
-</td>
-
 </tr>
 </table>
 
