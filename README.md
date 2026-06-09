@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=D4vincii&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
 <div align="center">
-  <img width="800" height="600" alt="banner" src="https://github.com/user-attachments/assets/1d03bfeb-6d5e-4d57-9e23-30e03b307129" />
+  <img width="800" height="350" alt="banner" src="https://github.com/user-attachments/assets/1d03bfeb-6d5e-4d57-9e23-30e03b307129" />
 </div>
 
 
