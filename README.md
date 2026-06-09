@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-## Technologies
+##  Technologies
  
 <div align="center">
 
@@ -68,9 +68,9 @@
 ## Statistics
 <div align="center">
 
-<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
-
-<img src="https://streak-stats.demolab.com?user=D4vincii&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0b0b0b&border=222222&stroke=222222&dates=777777&sideLabels=FFFFFF" alt="streak"/>
+<p style="color:#777; font-size:14px;">
+Statistics section removed for a cleaner dark profile.
+</p>
 
 </div>
 
