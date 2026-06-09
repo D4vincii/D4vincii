@@ -2,6 +2,18 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=D4vincii&style=flat-square&color=000000&label=PROFILE+VIEWS)
 
+<div align="center">
+
+◈ Location → Montreal, Canada  
+◈ Class → Computer Science Student (Cégep)  
+◈ Focus → Backend Development  
+◈ Experience → Python • SQL • Java • Web Development  
+◈ Learning → Algorithms • Databases • Clean Code  
+◈ Tools → IntelliJ IDEA • Git • Linux • GitHub  
+◈ Goal → Become a Backend Developer  
+◈ Mindset → “Imagination is more important than knowledge.”  
+
+</div>
 
 ---
 
