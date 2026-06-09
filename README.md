@@ -31,7 +31,7 @@
 
 <div align="center">
   
-![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
+## ![Python](https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
 ![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
 ![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
