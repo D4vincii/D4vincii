@@ -11,7 +11,7 @@
 <div align="center">
 <div style="display:inline-block; text-align:left;">
 
-◈ Location → Montreal, Canada  
+◈ Location → Canada ca
 ◈ Class → Computer Science Student (Cégep)  
 ◈ Focus → Backend Development  
 ◈ Experience → Python • SQL • Java • Web Development  
