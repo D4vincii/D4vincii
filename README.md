@@ -1,6 +1,3 @@
-<div align="center">
-<a href="https://git.io/typing-svg"><img src=""https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=30&pause=1000&color=FFFFFF&width=900&lines=Make+your+life+a+dream,+and+your+dream+a+reality;The+best+way+to+predict+the+future+is+to+create+it;Imagination+is+more+important+than+knowledge;Be+the+change+you+want+to+see+in+the+world." alt="Typing SVG" /></a>
-</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=D4vincii&style=flat-square&color=000000&label=PROFILE+VIEWS)
