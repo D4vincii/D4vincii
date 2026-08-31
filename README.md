@@ -7,6 +7,55 @@
 </div>
 
 
+<div align="center">
+<div style="display:inline-block; text-align:left;">
+
+◈ Location → Canada ca
+◈ Class → Computer Science Student (Cégep)  
+◈ Focus → Backend Development  
+◈ Experience → Python • SQL • Java • Web Development  
+◈ Learning → Algorithms • Databases • Clean Code  
+◈ Tools → IntelliJ IDEA • Git • Linux • GitHub  
+◈ Goal → Become a Backend Developer  
+◈ Mindset → "Imagination is more important than knowledge."  
+
+</div>
+</div>
+
+
+---
+
+<br/><br/>
+## Technologies
+
+<div align="center">
+  
+![SQL](https://img.shields.io/badge/SQL-111?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+</div>
+
+
+
+---
+
+<br/><br/>
+
+## Statistics
+<div align="center">
+<img width="300" height="200" alt="Image" src="https://github.com/user-attachments/assets/c5dddf19-1754-4f17-964c-fd367b4b1701" />
+
+<img src="https://streak-stats.demolab.com?user=Prata-del&theme=dark&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=AAAAAA&sideLabels=FFFFFF" alt="streak"/>
+
+<br/>
+
+</div>
+
+---
+
 
 ## Contribution Graph
 
